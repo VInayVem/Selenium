@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4309" started-at="2021-07-30T14:00:04Z" finished-at="2021-07-30T14:00:08Z">
+  <suite name="Default suite" duration-ms="3031" started-at="2021-08-10T07:24:53Z" finished-at="2021-08-10T07:24:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4309" started-at="2021-07-30T14:00:04Z" finished-at="2021-07-30T14:00:08Z">
-      <class name="API.test.API1">
-        <test-method status="PASS" signature="tokenapi()[pri:0, instance:API.test.API1@d818d1]" name="tokenapi" duration-ms="4268" started-at="2021-07-30T19:30:04Z" finished-at="2021-07-30T19:30:08Z">
+    <test name="Default test" duration-ms="3031" started-at="2021-08-10T07:24:53Z" finished-at="2021-08-10T07:24:56Z">
+      <class name="API.test.tokenapi">
+        <test-method status="PASS" signature="APInew()[pri:0, instance:API.test.tokenapi@166e5bd]" name="APInew" duration-ms="2983" started-at="2021-08-10T12:54:53Z" finished-at="2021-08-10T12:54:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tokenapi -->
-      </class> <!-- API.test.API1 -->
+        </test-method> <!-- APInew -->
+      </class> <!-- API.test.tokenapi -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
